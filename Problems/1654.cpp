@@ -1,0 +1,1 @@
+insert(idKey: int, value: int)

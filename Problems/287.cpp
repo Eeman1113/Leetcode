@@ -1,0 +1,1 @@
+isUnique(word: str)

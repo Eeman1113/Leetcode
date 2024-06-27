@@ -1,0 +1,1 @@
+recordTweet(tweetName: str, time: int)

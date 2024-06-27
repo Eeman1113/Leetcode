@@ -1,0 +1,1 @@
+k = right - left + 1

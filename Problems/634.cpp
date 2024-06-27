@@ -1,0 +1,1 @@
+put(id: int, timestamp: str)

@@ -1,0 +1,1 @@
+fetch(k: int)

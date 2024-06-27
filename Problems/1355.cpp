@@ -1,0 +1,1 @@
+getBill(product: List[int], amount: List[int])

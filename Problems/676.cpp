@@ -1,0 +1,1 @@
+insert(key: str, val: int)

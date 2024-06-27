@@ -1,0 +1,1 @@
+consec(num: int)

@@ -1,0 +1,1 @@
+addScore(playerId: int, score: int)

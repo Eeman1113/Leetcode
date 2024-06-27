@@ -1,0 +1,1 @@
+shouldPrintMessage(timestamp: int, message: str)

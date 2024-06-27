@@ -1,0 +1,1 @@
+add(left: int, right: int)

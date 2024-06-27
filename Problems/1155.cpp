@@ -1,0 +1,1 @@
+query(left: int, right: int, threshold: int)

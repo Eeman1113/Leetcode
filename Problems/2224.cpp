@@ -1,0 +1,1 @@
+encrypt(word1: str)
